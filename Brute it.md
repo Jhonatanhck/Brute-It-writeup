@@ -84,6 +84,7 @@ y ahi tenemos la contrasena para root, vamos a probarla
 Y listo ya somos root. PWNED
 
 ![](images/Pasted%20image%2020251218205158.png)
+Ahi esta la flag
 
 
 
